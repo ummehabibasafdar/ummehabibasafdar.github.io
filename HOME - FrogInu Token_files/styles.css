@@ -59,7 +59,7 @@
 	left: 1em;
 	z-index: 100;
 	border: 1px solid #dc3232;
-	background: #fff;
+	background: #71c2aa;
 	padding: .2em .8em;
 	width: 24em;
 }
@@ -95,7 +95,7 @@ form.submitting .wpcf7-spinner {
 .wpcf7-spinner::before {
 	content: '';
 	position: absolute;
-	background-color: #fbfbfc; /* Light Gray 100 */
+	background-color: #71c2aa; /* Light Gray 100 */
 	top: 4px;
 	left: 4px;
 	width: 6px;
